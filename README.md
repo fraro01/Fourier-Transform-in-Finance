@@ -18,7 +18,7 @@ In general, pay attention to all the `N.B.:` present on the script, because they
 ## Analysis and further possible expansions
 As shown by the image above, there seem to be four strong variations of the signal gathered by four blobs for all fiscal years, and nearly all of them seem to appear between the two boundaries set by two adjancent quarters.\
 It could be interesting trying to apply it in many other time series to see if they show the same characteristics.\
-This could be just the starting point of many possible interesting projects and further developments.\
+This could be just the starting point of many possible interesting projects and further developments.
 
 ### Notice
 The **y-axis** shows the price percentage variations, instead of the pure price.\
